@@ -4,7 +4,7 @@
 // Using Arduino IDE 1.8.12
 // Using WeMos D1 Mini (esp8266)
 // Using HC-SR04 Module
-// Tested on 16 June 2020
+// Tested on 13 June 2020
 // ---------------------------------------------------------------- //
 
 #include <ESP8266WiFi.h>

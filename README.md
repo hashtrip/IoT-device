@@ -1,4 +1,6 @@
 # hashtrip-iot
+This device will help to count people inside a restaurant, cafe, tourism area, etc. 
+Check the demo video [here on youtube](https://youtu.be/7mR15voZAQw)
 
 ## Required Hardware
 - ESP82666
